@@ -1,0 +1,41 @@
+name: Render solfa to audio
+
+on:
+  push:
+    paths: ["songs/**.drm", "scripts/**", ".github/workflows/render-solfa.yml"]
+  pull_request:
+    paths: ["songs/**.drm", "scripts/**"]
+  workflow_dispatch:        # manual run from the Actions tab
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install fluidsynth + ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fluidsynth fluid-soundfont-gm ffmpeg
+
+      - name: .drm -> .mid (python, stdlib only)
+        run: |
+          mkdir -p out
+          for f in songs/*.drm; do python3 scripts/drm.py "$f" out; done
+
+      - name: .mid -> .wav -> .mp3 (SoundFont synth)
+        run: |
+          # Use your own SF2 (e.g. soundfonts/Piano.sf2 copied from the app) if present
+          SF=$(ls soundfonts/*.sf2 2>/dev/null | head -1 || true)
+          SF=${SF:-/usr/share/sounds/sf2/FluidR3_GM.sf2}
+          for m in out/*.mid; do
+            b="${m%.mid}"
+            fluidsynth -ni -g 1.0 -r 44100 -F "$b.wav" "$SF" "$m"
+            ffmpeg -y -loglevel error -i "$b.wav" -b:a 192k "$b.mp3"
+            rm "$b.wav"
+          done
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: solfa-audio
+          path: out/*
