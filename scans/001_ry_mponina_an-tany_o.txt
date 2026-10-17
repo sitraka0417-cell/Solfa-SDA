@@ -1,0 +1,42 @@
+number: 1
+title: Ry mponina an-tany o!
+key: G
+meter: 4/4
+source: HL 1 · Tonony: Rakotonjanahary
+tempo: 84
+system
+S: |d :-|d :t,|l, :s,|d :-|r :-|m :-‖
+A: |s :-|s, :s,|m, :m,|m,:-|s,:-|s,:-‖
+T: |m :-|m :r|d :t,|d :-|t,:-|d :-‖
+B: |d :-|d :s,|l, :m,|l,:-|s,:-|d,:-‖
+lyric: Ry mpo- ni- na an- ta- ny o!
+lyric: An- dria-na am-bo-ny ha- si- na
+lyric: Mi- di- ra ao an-tra- no- ny
+lyric: An- dri- a- ma- ni-tra dia Ray
+system
+S: |m :-|m :m|r :d|f :-|m :-|r :-‖
+A: |s,:-|s,:s,|f, :m,|l,:-|s,:-|s,:-‖
+T: |d :-|d :d|t, :d|d :-|d :-|t,:-‖
+B: |d,:-|m,:d,|s, :l,|f,:-|d,:-|s,:-‖
+lyric: A- vi- a ma- nan-dra- ta feo
+lyric: I- zy nanao an- tsi-ka i- zao
+lyric: A- min'ny fi- ho- bi- a- na
+lyric: Ma- min-dra fo sy ma- ri- na
+system
+S: |d :-|r :m|r :d|l, :-|t, :-|d :-‖
+A: |s,:-|s, :s,|s, :m,|f, :-|f, :-|m,:-‖
+T: |m :-|r :d|t, :d|d :-|r :-|s,:-‖
+B: |d :-|t, :d|s, :l,|f, :-|s, :-|d,:-‖
+lyric: Ka mba de-rao ny Tom- po- nao
+lyric: I- si- ka no ma-la- la- ny
+lyric: A- tao-vy ren'ny la- ni- tra
+lyric: Mi- tsim-bi- na ny za- na- ny
+system
+S: |s :-|m :d|r :f|m :-|r :-|d :-|-:‖
+A: |s,:-|s, :fi,|s, :f,|s,:-|- :f,|m,:-|-:‖
+T: |r :-|d :d|t, :l,.t,|d :-|t,:|s,:-|-:‖
+B: |t,:-|d :l,|f, :r,|s,:-|s,:-|d,:-|-:‖
+lyric: Hi- rao ny vo- ni- na- hi- ny
+lyric: Fa on-dry izay fi- an- dri- ny
+lyric: Ny a- kon'ny fi- sao- ra- na
+lyric: Ha- tra- min'ny ta- ra- na- ny.

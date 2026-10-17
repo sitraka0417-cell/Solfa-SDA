@@ -1,0 +1,33 @@
+number: 7
+title: Ry Tompo zay fonenanay
+key: E
+meter: 3/4
+source: HA Miller · Rajoelison
+tempo: 88
+system
+S: :d|d :-:r|m :-:f|s :l :t|d':-‖s|d':-:d'|t :-:s
+A: :s,|s,:-:t,|d :-:d|d :- :f|m :-‖m|m :-:r|r :-:m
+T: :m|m :-:s|s :-:l|s :f :s|s :-‖s|l :-:fi|s :-:s
+B: :d|d :-:s,|d :-:f|m :f :r|d :-‖t,|l,:-:l,|t,:-:d
+lyric: Ry Tom- po zay fo-ne - nanay   Sy man-da ma- fy
+lyric: Ny he- lo ka izay vi -ta izao   A-tao- nao a- na-
+lyric: Am-pi- a- na- ronao - ny fo   Ha-hay hi-he- vi-
+lyric: O! mi- vere- na I - a-nao   Ry Tom- po a- za
+system
+S: l :m :fi|s :-‖s|s :-:m|d :- :d|l :-:f|r :-‖s
+A: m :d :d|t,:-‖t,|ta,:-:ta,|ta,:l,:s,|l,:-:l,|t,:-‖t,
+T: s :l :l|r :-‖f|m :-:s|m :-:m|f :-:f|s :-‖s
+B: d :l,:r|s,:-‖s,|d :-:d|d :-:d|f,:-:r,|s,:s‖f
+lyric: ha - trizay   A-san- dratray - ho a- minao -   Ny
+lyric: tre- hanao   He in- dro me - natra i-zahay -   O!
+lyric: tra- tokoa   Fa fo- hy re - ny andro e-ty -   Ka
+lyric: a- fo-i-nao   Ny ha- so- a - van-de- hi-be -   Hi-
+system
+S: d':t :l|s :f :r|d :-:r|d :-‖
+A: d :- :d|d :d :l,|s,:-:s,|s,:-‖
+T: s :- :f|s :l :f|m :-:f|m :-‖
+B: m :m,:f,|m,:m,:f,|s,:-:s,|d,:-‖
+lyric: sao- tra sy - ny dera i- zao
+lyric: ma - me- la - ny he- lo- kay
+lyric: ma - na- ka - iky ny a- ry
+lyric: toe- tra mandrakizay a- nie.

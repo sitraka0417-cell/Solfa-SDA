@@ -1,0 +1,49 @@
+number: 8
+title: Midera an'i Jehovah
+key: F
+meter: 3/4
+source: M. Randriamiarana
+tempo: 96
+system
+S: s,:d :m|d :-:s,|s,:-:m|m :-:-‖s,:r :f|m :-:f|m :-
+A: s,:s,:d|s,:-:s,|s,:-:d|d :-:-‖s,:s,:r|d :-:d|d :-
+T: s,:d :d|m :-:m|m :-:s|s :-:-‖s,:s :s|s :-:l|s :-
+B: s,:d :d|d :-:d|d :-:d|d :-:-‖s,:t,:t,|d :-:f,|s,:-
+lyric: Mi-de-ra an' i Je- hovah   Ry fi-re-ne- na re-
+system
+S: :r|d :-:-|r :r :r|m :-:-|f :- :-|_:_:_|_
+A: :t,|d :-:-|t,:t,:t,|d :-:-|l,:t,:l,|s :-:_|_
+T: :f|m :-:-|s :s :s|s :-:-|f :s :f|m :-:_|_
+B: :s,|d :-:-|s,:s,:s,|d :-:-|d :- :-|d.,d:d.m:_|d.d
+lyric: Hetra   Mi-de-ra A-   zy   Mi- de-ra -   A-zy
+lyric: (T) Mi-de-ra
+system
+S: r :r :r|m :- :-|f :- :t,|d :-:-‖s,:d :m|l :-:s|f :-:m.s
+A: t,:t,:t,|d :t,:l,|l,:t,:l,|s,:-:-‖s,:s,:d|d :-:d|t,:-:d.d
+T: s :s :s|s :- :-|l :s :f|m :-:-‖s :m :s|f :-:s|s :-:s.s
+B: s,:s,:s,|d :r :-|r,:- :s,|d :-:-‖s,:d :d|d :-:m|r :-:d.d
+lyric: ry o- lo-na   re - he-tra   Fa le-hi-be ny fa- mindra-
+lyric: (S, A) ry o- lo-na   re- he tra
+lyric: (T, B) ry o- lo-na   re - he tra
+system
+S: :m.s|f.m:-:r|f :-:t,|d :-:-‖s :f :m|s :- :-|s :- :-
+A: :d.d|d.d:-:t,|t,:-:s,|s,:-:-‖d :d :d|d :m :r|d :- :-
+T: :s.s|l.s:-:s|s :-:f|m :-:-‖m :l :s|m :- :-|m :m :s
+B: :d.d|d.s,:-:s,|s,:-:s,|d :-:-‖d :d :d|d :- :-|d :- :-
+lyric: mindra-po-ny   a-min- tsi-ka   A- ry mandra-   ki-
+lyric: (S, A) A-ry man dra - ki-
+lyric: (T, B) A-ry man dra - mandraki
+system
+S: s :f :m|s :- :-|s :- :-|f :s :l|m :-:r|d :-:-‖l :- :-
+A: _:_:d|d :m :r|d :- :-|_:_:d|d :-:t,|d :-:-‖d :m :d
+T: m :l :s|m :- :-|m :m :s|l :m :f|s :-:f|m :-:-‖_:_:_
+B: d :d :d|d :- :-|d :- :-|d :d :d|s,:-:s,|d :-:-‖_:_:_
+lyric: zay ny fa-ha   -   ma-   rinan'i   Je- ho-   vah   Ha-
+lyric: (A) Ha-   le-lo -
+system
+S: f :- :-|m :- :-|s :- :-|r :m :f|m :-:-|r :-:-|d :-:-‖
+A: s,:_:_|_:-:-|d :s,:l,|t,:- :-|d :-:l,|t,:-:-|s,:-:-‖
+T: s :l :l|s :l :l|m :-:_|s :- :-|s :-:-|s :-:f|m :-:-‖
+B: _:_:_|d :d :d|d :- :-|s,:d :t,|d :-:-|s,:-:-|d :-:-‖
+lyric: la-  lo  ia   Ha - -   le-   lo -   ia!
+lyric: Ha le lo-ia   Ha - -   le-   lo -   ia!

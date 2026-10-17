@@ -1,0 +1,52 @@
+number: 6
+title: Ry Tompo o! Mpamindra fo
+key: E
+meter: 6/4
+source: HL 273 · Tonony: Rajoelison
+tempo: 66
+mood: Dolce
+system
+S: :d|m :-:m|m :-:f|m :-:r|d :-‖m|s :-:s|s:-:l|s :-
+A: :d|d :-:d|d :-:d|d :-:t,|d :-‖d|d :-:t,|d:-:d|t,:-
+T: :m|s :-:s|s :-:l|s :-:f|m :-‖d|r :-:f|m:-:f|r :-
+B: :d|d :-:d|d :-:f,|s,:-:s,|d :-‖l,|s,:-:s,|d:-:f,|s,:-
+lyric: Ry Tom - po o! Mpa-min - dra fo   Sy fe - no fi- an- tra-
+lyric: Tsy te- hi- a - la tsi - ny re   Fa te - na di- so le-
+lyric: Ny faha-ma- ri- n- na ao am- po   No te - na si-tra- kao
+lyric: O! a - mo-ro - ny fo ma- dio   An- ke - hi-tri- ny- e-
+system
+S: :r|m :-‖s|l :-:l|l :t :d'|s :-:s|m :-‖d|m :-:f|m
+A: :t,|d :-‖d|d :-:d|d :- :d|d :-:d|d :-‖d|d :-:d|d
+T: :s|s :-‖m|f :-:f|f :- :f|m :-:m|s :-‖s|s :-:l|s
+B: :s,|d :-‖d|f :-:f|f :- :l,|d :-:d|d :-‖m,|s,:-:s,|s,
+lyric: na koa   Mpa -me -la he - lo ka to koa   Vo-noy ny ha-
+lyric: hi-be   He! ra-tsy hatra-ny am-bo- ho- ka e!   Ia-nao no na-
+lyric: to-koa   A - via di- o - vy a - vo-koa   Ny he - lo-ko
+lyric: a-nio   Fa- na - hy tsa - ra mba am-pio   To-ha - no tsy
+system
+S: :-:r|r :-:-|d :-:-|-:-‖d|m:-:m|m :-:r|d :-|-:-‖m|s
+A: :-:l,|t,:-:-|s,:-:-|-:-‖d|d:-:d|t,:-:s,|s,:-|-:-‖d|r
+T: :-:f|f :-:-|m :-:-|-:-‖m|s:-:s|s :-:f|m :-|-:-‖s|s
+B: :-:s,|s,:-:-|d :-:-|-:-‖d|d:-:d|s,:-:s,|d :-|-:-‖d|t,
+lyric: disoa - ko   Ma-na -tona aho i -zao   Na me-
+lyric: no-ta - ko   Ma nan -tona aho i -zao   Na me-
+lyric: re-he - tra   Ma nan -tona aho i -zao   Na me-
+lyric: ho re - sy   Ha me -rina a - mi-nao   'Reo o-
+system
+S: :-:s|s :-:f|m :-:-|-:-‖s|l:-:l|l :t :d'|s :-:s|m :-‖
+A: :-:t,|d :-:r|d :-:-|-:-‖d|d:-:d|d :- :d|d :-:d|d :-‖
+T: :-:r|r :-:s|s :-:-|-:-‖m|f:-:f|f :- :f|m :-:m|s :-‖
+B: :-:s,|l,:-:t,|d :-:-|-:-‖d|f:-:f|f :- :l,|d :-:d|d :-‖
+lyric: lo-ka a -mi-nao   No-ho ny ha - so- a - vanao
+lyric: lo-ka a -mi-nao   No-ho ny ha - so- a - vanao
+lyric: lo-ka a -mi-nao   No-ho ny ha - so- a - vanao
+lyric: lon-diso i -zao   No-fa ni ria- ko ha -trizao
+system
+S: :d|m :-:f|m :-:r|r :-:-|d :-:-|-:‖
+A: :d|d :-:d|d :-:l,|t,:-:-|s,:-:-|-:‖
+T: :s|s :-:l|s :-:f|f :-:-|m :-:-|-:‖
+B: :m,|s,:-:f,|s,:-:s,|s,:-:-|d :-:-|-:‖
+lyric: Sa-sao ma-dio ny fo - ko
+lyric: Sa-sao ma-dio ny fo - ko
+lyric: I -zay tsy mi - sy fe - tra
+lyric: Ry Kris ty 'Zay Mpandre - sy.

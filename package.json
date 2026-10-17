@@ -1,0 +1,7 @@
+{
+  "name": "solfa-sda",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "data": "python3 scripts/build_all.py", "cap:sync": "cap sync android" },
+  "dependencies": { "@capacitor/android": "^6.1.2", "@capacitor/cli": "^6.1.2", "@capacitor/core": "^6.1.2" }
+}

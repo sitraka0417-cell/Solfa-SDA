@@ -1,0 +1,23 @@
+number: 15
+title: Avia miondreha
+key: D
+meter: 4/4
+source: F.F.P.M. 6
+tempo: 90
+# --- transcription of the printed sol-fa (one block per system, S/A/T/B rows) ---
+system
+S: :s |m:-.f |s :d'|t :l |‖ s |m :-.m |m :d |r :-|-‖
+A: :m |d:-.r |m :m |f :f |‖ m |d :-.d |d :l,|t,:-|-‖
+T: :s |s:-.s |s :s |f :d'|‖ s |s :-.s |s :m.f|s :-|-‖
+B: :d |d:-.d |d :d |f :f |‖ d |d :-.d |d :d |s,:-|-‖
+lyric: A-vi-a mi-on-dre-ha | Ry va-zan-ta-ny ô
+lyric: Andri-a-na-na-ha-ry | Ma-nai-ky i-za-hay
+lyric: Re a-ny la-vi-tra any | I-zao ny he-ri-nao
+system
+S: :s |m :-.f |s :d'|t :l |‖ l |s :d'|r':t |d':-|-‖
+A: :r |d :-.r |m :m |f :f |‖ f |m :m |f :r |m :-|-‖
+T: :s |s :-.s |s :s |f :d'|‖ d'|d':d'|l :s |s :-|-‖
+B: :t,|d :-.d |d :d |f :f |‖ f |d :l |f :s |d :-|-‖
+lyric: Fa le-hi-be Je-ho-vah | Sy ma-si-na to-koa
+lyric: Fa a-minao ny he-ry | Tsy hay to-he-ri-na
+lyric: Ka i-sam-bazan-ta-ny | Hi-on-drika A-mi-nao

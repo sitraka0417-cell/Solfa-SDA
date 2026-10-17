@@ -1,0 +1,43 @@
+number: 5
+title: Toy ny diera
+key: G
+meter: 4/4
+source: HL 4 · Feony: Rakotonjanahary
+tempo: 76
+mood: Dolce
+system
+S: d :r|m :r|d :t|l,: s,‖d :r|m :f|m :r|d :-‖d :r
+A: s,:t,|d :t,|l,:s,|f,: m,‖l,:t,|d :r|d :t,|s :-‖s,:t,
+T: m :f|s :s|f :f|d : d‖m :f|s :l|s :f|m :-‖m :f
+B: d :s,|d :s,|f,:s,|d,: d,‖l,:t,|d :f,|s,:s,|d :-‖d :s,
+lyric: Toy ny die-raan-tany mai-na   Ha nan-ke-ta- he-ta ao   Ny fa-
+lyric: Te-na ma- fy fi-an- je -ra   Ta- mi-ko ny ta-nanao   Za-na-
+lyric: Ra-no- ma- so la-la-da - va   No fi- a- hi- ko e-ty   Hoy ny
+lyric: Ry fa- na- hi-ko na-hoa na   No dia re-ra- ka ianao?   Ao An-
+system
+S: |m :r|d :t|l,: s,‖d :r|m :f|m :r|d :-‖m :m|s :f
+A: |d :t,|l,:s,|f,: m,‖l,:t,|d :r|d :t,|s,:-‖d :d|d :t,
+T: |s :f|m :d|d : d‖m :f|s :l|s :f|m :-‖s :l|s :s
+B: |d :s,|l,:m,|f,: d,‖l,:t,|d :f,|s,:s,|d :-‖d :l,|m,:f,
+lyric: na-hi-ko ry Tom - po   Mba ma-ni-ry ra-no koa   O!ry Tom-po
+lyric: kao fa tsy je-re-nao   Za-ny no to- lo-ko- ko   Mihai-no- a
+lyric: latsam-pa-ha- va- lo   Aiza Andri-a-ma-ni-trao?   Ne-fa hi-ta
+lyric: dri-a- ma-ni- tsi-ka   A - o  I- zy ka je-reo   Fa fa-na-si
+system
+S: m :r|m :-‖s :s|l : s|f : m|r :-‖m :s|f : m|d :r
+A: d :t,|d :-‖d :d|d : d|t,: d|t,:-‖d :d|d : d|l,:t,
+T: s :s|s :-‖m :m|f : s|s : s|s :-‖s :m|l : s|m :f
+B: s,:s,|d :-‖d :d|f : m|r : d|s,:-‖d :d|d : d|l,:s,
+lyric: ve-lo-na   Ra-non'ai- na I - a- nao   Ko- a man-dra-pa- ho-
+lyric: Tompo o!   Mamin-dra fo a - mi- ko   Ma-si-na Ianao Je-
+lyric: nay Ia-nao   Ta- o an- tem po-li-nao   Ni-va-va - ha-nay re-
+lyric: tra-nana   Ho a-nao ny ta- va- ny   Va-tolam - py ve- lo-
+system
+S: |m :-|d :-‖m :m|f :m|r :d|r :-|d :-:-‖
+A: |d :-|l,:-‖d :d|l,:d|t,:l,|t,:-|s,:-:-‖
+T: |s :-|m :-‖s :l|r :m|r :m|f :-|m :-:-‖
+B: |d :-|l,:-‖d :l,|d :s,|s,:s,|s,:-|d,:-:-‖
+lyric: via- na   No mba ha-hi-ta-ko A - nao
+lyric: ho - vah   Ma-si-na tsi-toha indrin- dra
+lyric: he tra   No-ho-bianay,no-de -rai- nay
+lyric: na I-zy   I-bohiboihan-dra-non'ai - na.

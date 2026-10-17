@@ -1,0 +1,49 @@
+number: 3
+title: Ny Tompo ankalazao
+key: Eb
+meter: 4/4
+source: HL 14 · Tonony: Rakotonjanahary
+tempo: 96
+mood: Moderato
+system
+S: d :-|m :-|r :d |m :f |s :-|-:‖d :-|m :-|r :d
+A: s,:-|d :-|t,:d |d :d |t,:-|-:‖s,:-|d :-|t,:d
+T: m :-|s :-|f :m |s :l |r :-|-:‖m :-|s :-|f :m
+B: d :-|d :-|s,:d |d :d |s,:-|-:‖d :-|d :-|s,:d
+lyric: Ny Tom- po ankalazao   An-da- pa- ny
+lyric: Ho- de - rai - na a-nie   Ha- tra- ny am-
+system
+S: |m:f|s :-|-:‖m :-|l :-|s:d'|d':t|d':-|-:‖s:-
+A: |d:d|r :-|-:‖d :-|d :-|d:m |r :r|m :-|-:‖m:-
+T: |s:l|t :-|-:‖s :-|f :-|s:s |l :s|s :-|-:‖s:-
+B: |d:l,|s,:-|-:‖d :-|f :-|m:d |f :s|d :-|-:‖d:-
+lyric: masi-na   Fa I - zy re no nanao   Ny
+lyric: para-ny   Ny A - na-rantso-a-ny   I-
+system
+S: |d':-|l :s |s :fi|s :-|-:‖m :-|s :-|l :s |f :m
+A: |m :-|r :t,|m :r |r :-|-:‖d :-|m :-|f :r |d :d
+T: |l :-|fi:s |l :l |t :-|-:‖s :-|d':-|d':t |l :s
+B: |l,:-|r :m |d :r |s,:-|-:‖d :-|d :-|l,:s,|l,:d
+lyric: ta - ny sy la-nitra   De -rao re hatraiza ha-
+lyric: sao- ra - na a-nie   Ha - tra- ny a-min'ny
+system
+S: |r :-|d :-|-:‖d :-|f :-|m :r |m :f |s :-|-:-‖
+A: |d :t,|d :-|-:‖d :-|d :-|d :t,|d :d |r :-|-:-‖
+T: |s :-|m :-|-:‖m :-|l :-|s :s |s :l |t :-|-:-‖
+B: |s,:-|d :-|-:‖l,:-|f,:-|d :s,|d :l,|s,:-|-:-‖
+lyric: trai- za   De- rao ny in-drafo-ny
+lyric: a- vo   Ry mpo-nina an-ta- ny ô
+system
+S: d :-|f :-|m :r |m :f |s :-|-:-‖d':-|l :-|s :f
+A: d :-|d :-|d :t,|d :d |r :-|-:-‖d :-|d :-|t,:l,
+T: m :-|l :-|s :s |s :l |t :-|-:-‖s :-|f :-|r :f
+B: l :-|f,:-|d :s,|d :l,|s,:-|-:-‖m,:-|f,:-|s,:r,
+lyric: De- rao koa ny heri-ny   He - ry to-ky
+lyric: Ry o - lo- na ve-lo-na   De- rao I- zy:
+system
+S: |m :d|r :-|d :-‖
+A: |d :l,|t,:-|d :-‖
+T: |l :m|s :f|m :-‖
+B: |l,:l,|s,:-|d :-‖
+lyric: ho an-tsi -ka
+lyric: Ha-le- lo- ia!

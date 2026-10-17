@@ -1,0 +1,52 @@
+number: 4
+title: Izaho dia hidera anao
+key: D
+meter: 4/4
+source: HL 15 · Feony: Rakotonjanahary
+tempo: 108
+mood: Allegretto
+system
+S: d :-|m:f |s :-|d':-|t:-|l :-|s :-|-:‖s :-|l :s |m :-|m:-|f
+A: s,:-|d:d |d :-|m :-|r:-|fi:-|s :-|-:‖m :-|f :r |d :-|d:-|d
+T: m :-|s:l |s :-|s :-|s:-|r':d'|t :-|-:‖d':-|d':t |l :-|s:-|l
+B: d :-|d:l,|m :-|d :-|s:-|r :-|s,:-|-:‖d :-|f,:s,|l,:-|d:-|f,
+lyric: I- za-ho dia hi de-ra A - nao   A - min'ny fo - ko ma-
+lyric: Ni - e -ly be ny la - za- nao   No- ho ny te - ni- nao
+lyric: Fe - no ny fi - de - rana A - nao   I - zao tonto - lo hi-
+lyric: Ra - ha to-ro - va - na ny - fo   Ka ke-tra-ka sy ve-
+system
+S: :m|r :-|d:-:-‖d :-|m:f |s :-|d':-|t:-|l :-|s :-|-:‖s :-
+A: :d|d :t,|d:-:-‖s,:-|d:d |d :-|m :-|r:-|fi:-|s :-|-:‖m :-
+T: :s|s :-|m:-:-‖m :-|s:l |s :-|s :-|s:-|r':d'|t :-|-:‖d':-
+B: :d|s,:-|d:-:-‖d :-|d:l,|m :-|d :-|s:-|r :-|s,:-|-:‖d :-
+lyric: nonto - lo   Ha- sandratro ny fe- o - ko   Eo
+lyric: ma-he - ry   Fio- nona- ko re I - a - nao   Ra-
+lyric: ta ma - so   I - zay va-ho-a - ka man - dre   Ho
+lyric: ry to - ky   No - ho ny a - din - tsaina be   I
+system
+S: |l :s|m :-|m:-|f :m|r :-|d:-|-:-‖d':-|t :l |s :d'|t:-|l :-
+A: |f :r|d :-|d:-|d :d|d :t,|d:-|-:-‖m :-|r :r |t,:m |r:-|r :d
+T: |d':t|l :-|s:-|l :s|s :f|m:-|-:-‖s :-|s :fi|s :s |s:-|fi:-
+B: |f,:s,|l,:-|d:-|f,:d|s,:-|d:-|-:-‖d :-|s :r |m :d |r:-|r :-
+lyric: a- natre - han' ny Mpanja- ka   E - ran'ny toe-ra-ma - si -
+lyric: ha hi- do- nam- pa-ho-ria- na   I - reo Mpanja-ka ma - ro
+lyric: ve lon-ki ra koa mahi - ta   Ia nao An-dri-a- ma - ni-
+lyric: zay mandre ra ka tsy za ka   Dia ny fa ha ma ri na
+system
+S: |s :-‖s :-|r :-|f :-|m :r|m :f|s :-|l :-|s :-‖d :-|d :r|m
+A: |t,:-‖d :-|t,:-|d :-|d :t,|d :d |d :-|-:-|t,:-‖s,:-|l,:t,|d
+T: |s :-‖s :-|s :-|l :-|s :s |s :l |s :-|fi:-|s :-‖m :-|m :s |s
+B: |s,:-‖m,:-|s,:-|f,:-|d :s,|d :l,|m :-|r :-|s,:-‖d :-|l,:s,|d
+lyric: nao   No   ha- nan- dra-ta-ko ny lo -  ha   Hi - ho- by ny
+lyric: koa   Hi - an - ko   ho- ka a-ry hi-tsao ka   Ra - ha vao re
+lyric: tra o! Dia mi je ry anay ma -han - tra   Ka na dia to-
+lyric: nao   No mam - pi - a -ri-na ny vo - a   Ka na dia to-
+system
+S: :d|m :-|f :-|s :-‖s :-|r :-|f :-|m. :s|f :m|r :-|d :-‖
+A: :d|d :-|d :-|r :-‖d :-|t,:-|d :-|d. :d|d :d|d :t,|d :-‖
+T: :s|s :-|l :-|t :-‖s :-|s :-|l :-|s. :s|l :s|s :-|m :-‖
+B: :m|d :-|l,:-|s,:-‖m,:-|s,:-|f,:-|d. :m|f :d|s :-|d :-‖
+lyric: a- na -ra nao   Ry Mpi - ta - na ny fa- ne-ke - na
+lyric: ny fe- o - nao   Ma - no - me he- ry ma= ha-sa - hy
+lyric: a la- vi - tra   Dia ma - me - lo- na anay re-he - tra
+lyric: a re- ra - ka   Dia mbo - la a - fa ka hi-de - ra.

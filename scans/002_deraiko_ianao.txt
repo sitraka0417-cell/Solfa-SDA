@@ -1,0 +1,47 @@
+number: 2
+title: Deraiko Ianao
+key: Db
+meter: 4/4
+source: HL 12 · Feony: Rakotonjanahary
+tempo: 108
+mood: Allegretto
+system
+S: s :-|m :f |s :-|l :-|s :-|-‖ s |l :d'|t:l |s :-|f :-
+A: m :-|d :r |m :-|f :-|m :-|-‖ m |f :l |s:f |m :-|r :-
+T: d':-|s :l |d':-|d':-|d':-|-‖ d'|d':l |t:d'|d':-|s :-
+B: d :-|d :d |d :-|d :-|d :-|-‖ d |f :f |f:f |m :-|r :-
+lyric: De -rai ko I - a - nao   Isan'andro re-he-
+lyric: Ry Kristi-a - na ô   An-ka-lazao ny Tompo-
+lyric: An -je-ly ma- si na   Manan-ke-ry ha-mo-
+lyric: Ny fanja- ka- ny koa   Fanja-kana'zay mi-
+lyric: Mi- ban-ji-na A - nao   Ny o-lo-nao Je-ho-
+system
+S: m:-|-:-‖d':-|t :l |s:-|fi:-|s:-|-:-‖m :f|s :l |s :-
+A: d:-|-:-‖d :-|r :m |r:-|r :-|r:-|-:-‖d :r|m :f |m :-
+T: s:-|-:-‖l :-|si:l |t:-|d':-|t:-|-:-‖s :-|s :d'|d':-
+B: d:-|-:-‖l,:-|t,:d |r:-|r,:-|s,:-|-:-‖d :-|d :d |d :-
+lyric: tra   An - dri-a-ma- ni-tra ô   Ny - ma ri na
+lyric: nao   I lay Mpamon ji nao   Ry - vo-a-fi
+lyric: njy   A ron'ny za na ny   Am - be-na-ny
+lyric: sy   Fa ha mari na na   I - zay mialo
+lyric: vah   An ja ra lo va nay   Fi - ki-ri-nay
+system
+S: |f :-|m:-|-:-‖r :m |f :s |f :-|m :-|m :-|r :-‖m:-|m
+A: |r :-|d:-|-:-‖t,:d |r :m |r :-|d :-|d :-|t,:-‖d:-|d
+T: |s :-|s:-|-:-‖s :-|s :-|s :-|s :-|s :-|s :-‖s:-|s
+B: |t,:-|d:-|-:-‖s,:-|s,:-|s,:-|s,:-|s,:-|s,:-‖d:-|d
+lyric: han - dre   Ny - aingan'ny fa - na -hy   Ma-nen
+lyric: di - ny   Sam - ba tra ta - fa vo ry   Am-ba
+lyric: to - koa   Ra-ha hi -tany fa mi - sy   Lo-za
+lyric: ha eo   Tsy - ma-na-na a - hia- na   Fa tsa
+lyric: Ia - nao   Fa a-nay mandra ki - za - y   O -meo
+system
+S: :m |f :-|f :-|s:-|-:-‖l :-|l :l |t :-|t :-|d':-|-:-‖
+A: :d |l,:-|t,:-|d:-|-:-‖d :-|d :d |r :-|f :-|m :-|-:-‖
+T: :s |s :-|s :-|s:-|-:-‖f :-|f :f |s :-|s :-|s :-|-:-‖
+B: :d |r :-|r :-|m:-|-:-‖f,:-|f,:f,|s,:-|s,:-|d :-|-:-‖
+lyric: ta-na ny fo   Ma - nenta na ny fo
+lyric: ny e - la - ny   Am - ba- ny e la ny
+lyric: manam ba - na   Lo - za ma-nam-ba - na
+lyric: ra an - nto- ka   Fa tsa-ra an -to - ka
+lyric: fiada - na na   O - meo fiada -na - na.
