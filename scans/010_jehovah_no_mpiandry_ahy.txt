@@ -1,0 +1,32 @@
+number: 10
+title: Jehovah no Mpiandry ahy
+key: F
+meter: 3/4
+source: By Seymour Irvine · Tonony: Mamy J. Ratsirison & J. Ratsirison
+tempo: 88
+verse: 4. Jehovah no Mpiaro ahy / Mamelatra ho ahy / Latabatra eo imason' / Ny fahavaloko
+verse: 5. Jehovah no Mpiaro ahy / Sady be indrafo / Hitoetra an-kianjanao doria / No faniriako ety.
+system
+S: :s,|m :-:f .r|s :- :f .r|d :-:t,|d :-‖m|m :r :r|fi:-
+A: :s,|d :-:t,|d :t,:l,|s,:-:s,|s,:-‖d|d :- :d|l,:r
+T: :m|s :-:f|m :- :d .r|m :-:r|m :-‖s|fi:- :fi|l :-
+B: :d|d :-:d|d :m,:f,|s,:-:s,|d :-‖d .t,|l,:- :l,|r :-
+lyric: Je- ho- vah - no - Mpi- an- dry ahy   Mpi- a - hy ny -
+lyric: Je- ho- vah - no - Mpi- ta- rika ahy   Sa - dy - Mpiton-
+lyric: Je- ho- vah   no - Mpi- tan- tana ahy   Tsy- mi - sy mam-
+system
+S: :fi|s :-‖m|m :f :m|r :-:m|f :s :f|m :-‖m|r :f
+A: :d|t,:-‖d|d :r :d|t,:-:d|r :m :r|d :-‖d .t,|l,:l,
+T: :l|r :-‖s|s :- :s|s :-:s|s :s :s|s :-‖s|f :f
+B: :r|s,:-‖d|d :t,:d|s,:f:m|r :s,:l,.t,|d :-‖m,|f,:f,
+lyric: Fanahy   Tsy mi- sy a - ta-ho - ra- ko   Fa- I -
+lyric: dra ahy   A- mo - rondra- non'ai- na - re   Mi- a -
+lyric: pa-nahy   Na dia- ma-ma - ky ny a- lo- ky   Ny - fa ha-
+system
+S: :l|d :-:t,|d :-:-‖
+A: :l,|s,:-:s,|s,:-:-‖
+T: :r|m :-:f|m :-:-‖
+B: :r,|s,:-:s,|d,:-:-‖
+lyric: zy a- ro- ko
+lyric: sa-sa- tra e!
+lyric: fa-te- sa- na.

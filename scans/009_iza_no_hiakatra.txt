@@ -1,0 +1,95 @@
+number: 9
+title: Iza no hiakatra ?
+key: Bb
+meter: 3/4
+source: A. Raoeliarijaona
+tempo: 92
+mood: Fiderana
+align: rule
+# Irregular layout: several systems start/end with partial bars (pickups); some bars are for the bass alone.
+# The printed marks "DC/$" (end of system 6, before the double bar) and "DS/ Farany" (last system) are not executed.
+system
+S: _:_|_:_:_|_:_:_|.d,:s,.s,:s,
+A: _:_|_:_:_|_:_:_|.d,:m,.m,:m,
+T: _:_|_:_:_|_:_:_|.d:d.d:d
+B: :s,.,m,|d,:d:.d,|l,.,si,:l,.f,:r,.r,|d,.::.s,
+lyric: (B) I- za no hia- ka tra any an- ten- drom- bo- hi‑tra Hi-
+lyric: (T) An- ten- drom- bo-
+system
+S: .m,:f,.f,:f,|.d,:l,.l,:t,|.l,:l,:s,|_
+A: .d,:r,.r,:r,|.d,:f,.f,:s,|.f,:f,:m,|_
+T: .d:t,.t,:t,|s,:l,.l,:t,|.d:d:d|_
+B: d,.d,:d:d.s,|d,.d:d.d:d.s,|d,.d:d:.s|d,.d
+lyric: (B) a- ka-tra a- ny an-ten-drom-bo-hi-tra Hi- a-ka-tra A-ry i-za
+system
+S: _:_:_|.s,:r:r.m|.l,:l,.,t,:d.r|.s,:s,.,l,
+A: _:_:_|.s,:t,:t,.d|.f,:f,.,s,:l,.t,|.m,:m,.,f,
+T: _:_:_|_:_:_|_:_:_|_:_
+B: :t,:l,.r,|s,:s,:.s,|f,:f,:.f,|m,:m,
+lyric: (B) no hi-to- e- tra hi-toe- tra hi-toe- tra
+system
+S: :t,.d|d.,t,:d.l,:f.r|.d,:s,.s,:s,|.m,:f,.f,:f,
+A: :s,.l,|l,.,si,:l,.f,:r,.r,|.d,:m,.m,:m,|.d,:r,.r,:r,
+T: _:_|s,.,s,:l,.l,:t,.t,|.d:d.d:d|.d:t,.t,:t,
+B: :.m,|r,:-:s.,m,|d,::.s,|d,.d:d:
+lyric: (B) hi- toe- tra a- ny an-ten-drom-bo-
+system
+S: _|.d:l,.l,:t,|.l,:l,:s,|.s,:s,.d:t,.d|_
+A: _|.d,:f,.f,:s,|.f,:f,:m,|.m,:m,.s,:s,.s,|_
+T: _|s,:l,.l,:t,|.d:d:d|.d:d.m:ri.m|_
+B: .s,|d,.d:d:d.s,|d,.d:d:d,.r,|m,:m,:.d,|f,
+lyric: (B) hi-tr'i Je- ho- vah Ka i- za no hi-to- e- tra a- min'ny
+system
+S: .l,:l,.r:di.r|.s,:l,:t,.,t,|d.d:d:‖_:_:_
+A: .f,:f,.l,:si,.l,|.s,:f,:f,.,f,|m,.m,:m,:‖_:_:_
+T: .d:d.f:m.f|.t,:d:r.,r|s,.s,:s,:‖_:_:_
+B: ::r,|s,::s,.,s,|d,.d,:d,:‖d,.,d,:r,:m,.d,
+lyric: (B) fi-toe- ra- ny ma-si-na Zay-ma-di-o i-
+system
+S: d.t,:d:d|.d:d.t,:d.l,|s,.s,:s,:-|_:_:_
+A: l,.si,:l,:l,|.l,:l,.si,:l,.f,|m,.m,:m,:-|_:_:_
+T: f.f:f:f|.f:d.d:r.r|d.d:d:-|_:_:_
+B: f,.f,:f,:f,|.f,:f,.s,:l,.t,|d.d:d:-|l,.,si,:l,.d:l,.s,
+lyric: (B) zay ma-di-o i-zay ma- di-o ta-na-na Zay ma- hitsy fo i-
+system
+S: r.r:r:r|.d:d.t,:d.l,|t,:-:l,|s,.l,:s,:f,|m,:-
+A: fi,.fi,:fi,:fi,|.l,:l,.si,:l,.fi,|s,:-:f,|m,.f,:m,:r,|d,:-
+T: l,.l,:l,:l,|.d:d.r:m.d|r:-:r|t,.t,:d:r|s,:-
+B: r,.r,:r,:r,|.r,:r,.r,:r,.r,|s,:-:s,|s,.s,:l,:t,|d:-
+lyric: (B) zay ma-hi- tsy i-zay ma- hitsy fo no hia- ka-tra a ny a-
+system
+S: :f|s,.d:d.t,:r.d|l,:-:l,|l,.t,:d.t,:d.l,|s,:-:d
+A: :r,|m,.m,:m,.m,:m,.m,|f,:-:f,|f,.s,:l,.f,:l,.f,|m,:-:s,
+T: :l,.t,|d.d,:s,.s,:ta,.ta,|l,:-:d|d.d:d.d:r.r|m:-:m
+B: :d,|d,.d:d.s,:m,.d,|f,:-:f,|f,.f,:f,.f,:f,.r,|s,:-:l,
+lyric: (B) ry han-dray ny fi-ta-hi- a- na ny fi-ta-hi-a-na a vy a- min'
+system
+S: t,.d:r:-.t,|d:d:‖_|_:_:_|_:_:_|_
+A: f,.m,:f,:-.f,|m,:m,:‖_|_:_:_|_:_:_|_
+T: r.d:t,:-.s,|s,:s,:‖_|_:_:_|_:_:_|_
+B: s,.s,:s,:-.s,|d,:d,:‖.d|d.,t,:d.t,:l,.s,|f,:f,:.f,|r.,di
+lyric: (B) i Je-ho- vah i- zy Han-dray ny fi-ta-hia-na i- zy Han-dray ny
+system
+S: _:_:_|_:_:_|_:_:_|_:_:_
+A: _:_:_|_:_:_|_:_:_|_:_:_
+T: _:_:_|_:_:_|_:_:_|_:_:_
+B: :r.d:t,.l,|s,:s,:.s,|r.,t,:s,.d:l,.f,|t,.,s,:m,.l,:f,.r,
+lyric: (B) fi-ta-hia-na i- zy ka i-za no hi-a-ka-tra a ny an-ten-drom-bo-hi
+system
+S: .d,:s,.s,:s,|.m,:f,.f,:f,|.d,:l,.l,:t,|.l,:l
+A: .d,:m,.m,:m,|.d,:r,.r,:r,|.d,:f,.f,:s,|.f,:f,
+T: .d:d.d:d|.d:t,.t,:t,|s,:l,.l,:t,|.d:d
+B: d,::.s|d,.d:d:.s,|d,.d:d:d.s,|d,.d:d
+lyric: (B) tra an-ten-drom-bo- hi-tr'i Je-ho- vah ka i-za no
+system
+S: :s,|.s,:s,.d:t,.d|.l,:l,.r:di.r|.s,:l,:t,.,t,
+A: :m,|.m,:m,.s,:s,.s,|.f,:f,.l,:si,.l,|.s,:f,:f,.,f,
+T: :d|.d:d.m:ri.m|.d:d.f:m.f|.t,:d:r.,r
+B: :d,.r,|m,:m,:.d,|f,::r,.s,|::s,.,s,
+lyric: (B) hi-to e- tra a- min' ny fi-toe ra- ny
+system
+S: d.d:d:-
+A: m,.m,:m,:-
+T: s,.s,:s,:-
+B: d,.d,:d,:-
+lyric: (B) ma-si-na.

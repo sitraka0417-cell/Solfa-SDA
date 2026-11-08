@@ -1,0 +1,47 @@
+number: 8
+align: rule
+title: Midera an'i Jehovah
+key: F
+meter: 3/4
+source: M. Randriamiarana
+tempo: 96
+system
+S: s,:d :m|d :-:s,|s,:-:m|m :-:-‖s,:r :f|m :-:f|m :-
+A: s,:s,:d|s,:-:s,|s,:-:d|d :-:-‖s,:s,:r|d :-:d|d :-
+T: s,:d :d|m :-:m|m :-:s|s :-:-‖s,:s :s|s :-:l|s :-
+B: s,:d :d|d :-:d|d :-:d|d :-:-‖s,:t,:t,|d :-:f,|s,:-
+lyric: (B) Mi-de-ra an' i Je- ho·vah Ry fi-re-ne- na re-
+system
+S: :r|d :-:-|r :r :r|m :-:-|f :- :-|_:_:_|_
+A: :t,|d :-:-|t,:t,:t,|d :-:-|l,:t,:l,|s :-:_|_
+T: :f|m :-:-|s :s :s|s :-:-|f :s :f|m :-:_|_
+B: :s,|d :-:-|s,:s,:s,|d :-:-|d :- :-|d.,d:d.m:_|d.d
+lyric: (B) He·tra Mi-de-ra A- zy Mi- de-ra ~ A-zy
+system
+S: r :r :r|m :- :-|f :- :t,|d :-:-‖s,:d :m|l :-:s|f :-:m.s
+A: t,:t,:t,|d :t,:l,|l,:t,:l,|s,:-:-‖s,:s,:d|d :-:d|t,:-:d.d
+T: s :s :s|s :- :-|l :s :f|m :-:-‖s :m :s|f :-:s|s :-:s.s
+B: s,:s,:s,|d :r :-|r,:- :s,|d :-:-‖s,:d :d|d :-:m|r :-:d.d
+lyric: (B) ry o- lo- na ~ re he-tra Fa le-hi-be ny fa- min-dra-
+system
+S: :m.s|f.m:-:r|f :-:t,|d :-:-‖s :f :m|s :- :-|s :- :-
+A: :d.d|d.d:-:t,|t,:-:s,|s,:-:-‖d :d :d|d :m :r|d :- :-
+T: :s.s|l.s:-:s|s :-:f|m :-:-‖m :l :s|m :- :-|m :m :s
+B: :d.d|d.s,:-:s,|s,:-:s,|d :-:-‖d :d :d|d :- :-|d :- :-
+lyric: (B) min-dra-po-ny a-min- tsi-ka A- ry man-dra- ki-
+system
+S: s :f :m|s :- :-|s :- :-|f :s :l|m :-:r|d :-:-‖l :- :-
+A: _:_:d|d :m :r|d :- :-|_:_:d|d :-:t,|d :-:-‖d :m :d
+T: m :l :s|m :- :-|m :m :s|l :m :f|s :-:f|m :-:-‖_:_:_
+B: d :d :d|d :- :-|d :- :-|d :d :d|s,:-:s,|d :-:-‖_:_:_
+lyric: (B) zay ny fa-ha ma- ri·nan'·i Je- ho- vah
+lyric: (S@11) Ha-
+lyric: (A@9) Ha- le-lo
+system
+S: f :- :-|m :- :-|s :- :-|r :m :f|m :-:-|r :-:-|d :-:-‖
+A: s,:_:_|_:-:-|d :s,:l,|t,:- :-|d :-:l,|t,:-:-|s,:-:-‖
+T: s :l :l|s :l :l|m :-:_|s :- :-|s :-:-|s :-:f|m :-:-‖
+B: _:_:_|d :d :d|d :- :-|s,:d :t,|d :-:-|s,:-:-|d :-:-‖
+lyric: (S) la- lo ia Ha ~ ~ le- lo ia!
+lyric: (B) Ha le lo ia Ha ~ ~ le lo ia!
+
